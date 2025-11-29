@@ -117,7 +117,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 * [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
-* [streamlit](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+* [streamlit](https://github.com/streamlit/streamlit) - Build and deploy interactive data apps and ML dashboards using pure Python. No frontend experience required.
 
 ## Algorithms and Design Patterns
 
@@ -328,7 +328,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for data analyzing.*
 
-* [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+* [pandas](http://pandas.pydata.org/) - High-performance data manipulation library with DataFrame structure. Essential tool for data cleaning, transformation, and analysis.
 * [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 * [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 * [desbordante](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
@@ -605,7 +605,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with HTML and XML.*
 
-* [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
+* [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Pythonic library for web scraping and parsing HTML/XML. Extract data from websites with simple, intuitive syntax.
 * [bleach](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
 * [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
 * [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
